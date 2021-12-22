@@ -1,3 +1,7 @@
+# OUTDATED
+# This repo will be DELETED, let's use the clean one: https://github.com/ufal/eyetracked-multi-modal-translation
+
+
 # About EMMT
 
 We present EMMT, a dataset containing monocular eye movement recordings, audio data and 4-electrode wearable electroencephalogram (EEG) data of 43 participants while engaged in sight translation task supported by an image.
